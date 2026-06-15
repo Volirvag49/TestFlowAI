@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+
+# Host and Sitemap
+Sitemap: https://test-flow-ai.tech/sitemap.xml
+
+# Crawl-delay (optional, polite crawling)
+Crawl-delay: 5
